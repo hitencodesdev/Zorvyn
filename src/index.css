@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-mono: "Space Mono", monospace;
+  --font-display: "Syne", sans-serif;
+
+  --color-brand-lime: var(--color-lime-400);
+  --color-brand-cyan: var(--color-cyan-400);
+}
+
+@layer base {
+  body {
+    @apply bg-gray-950 text-gray-300 font-sans antialiased overflow-x-hidden;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display text-gray-100;
+  }
+}
+
+.bg-dot-pattern {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.glow-card {
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glow-card:hover {
+  border-color: rgba(163, 230, 53, 0.5);
+  box-shadow: 0 0 20px rgba(163, 230, 53, 0.15);
+  transform: translateY(-2px);
+}
+
+.glow-card-cyan:hover {
+  border-color: rgba(34, 211, 238, 0.5);
+  box-shadow: 0 0 20px rgba(34, 211, 238, 0.15);
+}
+
+.reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: all 0.8s ease-out;
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translateY(0);
+}
