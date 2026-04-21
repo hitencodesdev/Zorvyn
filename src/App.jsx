@@ -218,11 +218,8 @@ const App = () => {
             <div className="hidden md:block relative">
               <div className="w-full aspect-square bg-gray-900 border border-lime-500/30 rounded-lg relative z-10 
                               before:absolute before:inset-0 before:bg-lime-400/10 before:z-20
-                              after:absolute after:inset-0 after:border-2 after:border-cyan-400/50 after:rounded-lg after:translate-x-4 after:translate-y-4 after:-z-10 transition-all hover:after:translate-x-2 hover:after:translate-y-2">
-                {/* Normally an image goes here, we use a tech illustration placeholder */}
-                <div className="absolute inset-0 flex items-center justify-center text-lime-400/50">
-                  <Code size={100} strokeWidth={1} />
-                </div>
+                              after:absolute after:inset-0 after:border-2 after:border-cyan-400/50 after:rounded-lg after:translate-x-4 after:translate-y-4 after:-z-10 transition-all hover:after:translate-x-2 hover:after:translate-y-2 overflow-hidden">
+                <img src="/Portfolio_image.png" alt="Hiten Garg" className="w-full h-full object-cover relative z-10" />
               </div>
             </div>
           </div>
