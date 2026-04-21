@@ -27,24 +27,6 @@ This portfolio is built to be fast, responsive, and visually striking.
 - **Tech Used**: React.js, Tailwind CSS v4, and Vite.
 - **Styling**: Features a customized deep-charcoal theme paired with vivid cyan and lime-green accents. The styles encompass custom dot-pattered backgrounds, hover-triggered neon glow utilities, and an inline scroll-trigger observer to reveal layout cards cleanly.
 
-## ⚙️ Running Locally
-
-Want to inspect my code or spin up the application on your machine?
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/hitencodesdev/Zorvyn.git
-
-# 2. Navigate to the directory
-cd Zorvyn
-
-# 3. Install NPM dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-```
-
 ## 📫 Get In Touch
 
 I am currently looking for new opportunities and collaborations!
