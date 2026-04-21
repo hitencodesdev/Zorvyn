@@ -1,16 +1,58 @@
-# React + Vite
+# 💻 Hiten Garg | Full-Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for my personal developer portfolio! This is a single-page React application designed with a sleek, dark editorial-tech aesthetic, engineered to showcase my ongoing journey as a coder.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hello! I'm **Hiten Garg**, a passionate Computer Science Engineering student currently studying at **Chitkara University (CGPA: 9.60)**. 
 
-## React Compiler
+I specialize in full-stack web development and have a deep curiosity for how dynamic, complex systems run behind the scenes. From writing efficient code logic to scaling web applications and deploying them on cloud platforms, I spend my time exploring modern frameworks and turning ideas into robust applications.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Some of my core traits:
+- **Hackathon Enthusiast:** I am constantly pushing boundaries under pressure. I thrive in hackathons, recently landing as a **Winner in the Smart India Hackathon (University Level)** and as a Finalist in both *HackIndia* and *HackNexus*.  
+- **Problem Solver:** I love diagnosing backend friction points, restructuring database queries in MongoDB and PostgreSQL, and delivering stable APIs.
+- **Continuous Learner:** When I'm not studying or building projects (like my platforms *AgriSphere* or my *Assignment Management System*), I focus on absorbing new technologies, from exploring AWS and Nginx to fine-tuning React animations.
 
-## Expanding the ESLint configuration
+### 🛠️ Tech Stack & Skills
+- **Languages:** C++, Java, JavaScript
+- **Frontend:** React.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, PostgreSQL
+- **DevOps & Cloud:** Vercel, Render, AWS, Nginx
+- **Core Knowledge:** OS, Data Structures & Algorithms, DBMS, Agile, Scrum
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎨 About This Project
+
+This portfolio is built to be fast, responsive, and visually striking.
+- **Tech Used**: React.js, Tailwind CSS v4, and Vite.
+- **Styling**: Features a customized deep-charcoal theme paired with vivid cyan and lime-green accents. The styles encompass custom dot-pattered backgrounds, hover-triggered neon glow utilities, and an inline scroll-trigger observer to reveal layout cards cleanly.
+
+## ⚙️ Running Locally
+
+Want to inspect my code or spin up the application on your machine?
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/hitencodesdev/Zorvyn.git
+
+# 2. Navigate to the directory
+cd Zorvyn
+
+# 3. Install NPM dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+```
+
+## 📫 Get In Touch
+
+I am currently looking for new opportunities and collaborations!
+
+* 📧 Email: [hitengarg918@gmail.com](mailto:hitengarg918@gmail.com)
+* 📞 Phone: +91 62395 26488
+* 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com)
+* 🐙 GitHub: [hitencodesdev](https://github.com/hitencodesdev)
+
+---
+*Designed & Built by Hiten Garg using React & Tailwind CSS.*
