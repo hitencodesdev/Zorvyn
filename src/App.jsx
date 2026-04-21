@@ -355,10 +355,10 @@ const App = () => {
                   <li>Gemini API</li>
                 </ul>
                 <div className="flex gap-4">
-                  <a href="#" className="text-gray-300 hover:text-lime-400 transition-colors flex items-center gap-2 text-sm font-medium">
+                  <a href="https://agri-sphere-mu.vercel.app/" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-lime-400 transition-colors flex items-center gap-2 text-sm font-medium">
                     <ExternalLink size={20} /> Live Demo
                   </a>
-                  <a href="#" className="text-gray-300 hover:text-cyan-400 transition-colors">
+                  <a href="https://github.com/hitencodesdev/AgriShphere" target="_blank" rel="noreferrer" className="text-gray-300 hover:text-cyan-400 transition-colors">
                     <Github size={20} />
                   </a>
                 </div>
