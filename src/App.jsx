@@ -333,7 +333,7 @@ const App = () => {
               <div className="w-full lg:w-7/12 relative">
                 <div className="absolute inset-0 bg-lime-400/20 mix-blend-multiply group-hover:bg-transparent transition-all duration-300 rounded-xl z-10 pointer-events-none"></div>
                 <div className="aspect-video bg-gray-900 border border-white/10 rounded-xl overflow-hidden flex items-center justify-center relative">
-                   <img src="/src/assets/agrisphere.png" alt="AgriSphere Preview" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                   <img src="/Agrisphere.png" alt="AgriSphere Preview" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                 </div>
               </div>
               <div className="w-full lg:w-5/12 flex flex-col lg:items-end text-left lg:text-right">
